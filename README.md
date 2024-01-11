@@ -1,3 +1,5 @@
+# Week 8
+
 ## Exercise 1
 Based on the knowledge that `values()` exists, create class that iterates over the values in an Enum and prints all variations for each.
 
